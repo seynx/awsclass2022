@@ -1,0 +1,11 @@
+
+Create VPC
+Create an internet Gateway
+Create a custom routetable
+Create a Subnet
+Associate the subnet with routetable
+Create security groups (22,80 and 443)
+Create a network interface with an IP in the subnet 
+Assign an elastic IP to the network interface
+Create an EC2
+Create a web server and install it on EC2
